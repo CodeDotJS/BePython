@@ -1,4 +1,11 @@
-# practice_py_codes
-Complete set of python codes which I wrote when I was a beginner. 
+# BePython
 
-This repo is for beginners who want to study and practice python.
+> Python codes for beignners.
+
+## Usage
+
+> Download and run them one by one.
+
+## Extra
+
+> Do not skip
